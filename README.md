@@ -558,3 +558,5 @@ Only one parameter should be set to "1" when the hook runs. The hook running pas
 <h3>GIT</h3>.
 
 Part of the git[1] suite.
+# Image
+<img align="right" src="/image/dog-image-3.jpg" alt="alt text"  width="300" height="300">
