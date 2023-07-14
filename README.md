@@ -565,4 +565,4 @@ Part of the git[1] suite.
 [image](http://google.com)
 
 # Link Image
-<a href="http://google.com"><img align="right" src="/image/dog-image-3.jpg" width="200" height="200" ></img></a>
+<a href="http://google.com"><img align="left" src="/image/dog-image-3.jpg" width="200" height="200" ></img></a>
